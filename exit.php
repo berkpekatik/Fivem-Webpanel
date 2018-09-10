@@ -77,7 +77,13 @@ if(!isset($_SESSION['steamid'])) {
                 </div>
             </div>
         </div>
-
+ <div class="row">
+                            <div class="col-md-12">
+                                <div class="copyright">
+                                    <p>Copyright <a href="https://berkpekatik.com">vNoisy</a>.</p>
+                                </div>
+                            </div>
+                        </div>
     </div>
 
     <!-- Jquery JS-->
